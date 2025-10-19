@@ -51,7 +51,8 @@ The application features a modern design flow.
 
 ## Download App 📥
 
-You can download the latest version of the app [here](https://github.com/mdAkhtar21/News-App/releases/latest).  
+You can download the latest version of the app [here](https://github.com/mdAkhtar21/News-App/releases/download/v1.0.0/app-debug.apk).
+ 
 
 ---
 
