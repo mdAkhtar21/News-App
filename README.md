@@ -29,7 +29,7 @@ The **News App** is a modern, real-time news reader built for Android. It is eng
 
 ## Screenshots 📸
 
-The application features a modern design flow. Screenshots are displayed 4 per row, with Splash Screen first:
+The application features a modern design flow.
 
 **Main & Onboarding Screens**
 <p float="left">
@@ -52,7 +52,6 @@ The application features a modern design flow. Screenshots are displayed 4 per r
 ## Download App 📥
 
 You can download the latest version of the app [here](https://github.com/mdAkhtar21/News-App/releases/latest).  
-*(Make sure the APK is uploaded in GitHub Releases to enable this link.)*
 
 ---
 
